@@ -1,0 +1,19 @@
+Index,Name,# Attributes,# Classes,# Samples,URL
+1,Anuran Calls (MFCCs) Data Set,21,8,7195,https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29#
+2,Avila Data Set,10,12,20867,https://archive.ics.uci.edu/ml/datasets/Avila
+3,banknote authentication,5,2,1372,https://archive.ics.uci.edu/ml/datasets/banknote+authentication
+4,Breast Cancer Coimbra,10,2,116,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra
+5,Breast Cancer Wisconsin (Diagnostic),32,2,569,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+6,Breast Cancer Wisconsin (Prognostic),34,2,198,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Prognostic%29
+7,Breast Tissue,9,6,106,https://archive.ics.uci.edu/ml/datasets/Breast+Tissue
+8,Ecoli,8,8,336,https://archive.ics.uci.edu/ml/datasets/Ecoli
+9,EEG Eye State,15,2,14980,https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
+10,Geographical Original of Music,68,?,1059,https://archive.ics.uci.edu/ml/datasets/Geographical+Original+of+Music
+11,Glass Identification,10,7,214,https://archive.ics.uci.edu/ml/datasets/Glass+Identification
+12,HTRU2,9,2,17898,https://archive.ics.uci.edu/ml/datasets/HTRU2
+13,Iris,4,3,150,https://archive.ics.uci.edu/ml/datasets/Iris
+14,Mice Protein Expression,82,8,1080,https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
+15,Parkinsons,23,2,197,https://archive.ics.uci.edu/ml/datasets/Parkinsons
+16,Yeast,8,10,1484,https://archive.ics.uci.edu/ml/datasets/Yeast
+17,Wine,13,3,178,https://archive.ics.uci.edu/ml/datasets/Wine
+18,Seeds,7,3,210,https://archive.ics.uci.edu/ml/datasets/seeds
